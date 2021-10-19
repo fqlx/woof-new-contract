@@ -1,7 +1,6 @@
-# new contracts!
+# Woof new contract cli
+CLI version of woof new contract for tmux
 
+## new contracts!
 go build
 
-# problems
-
-the systray library is kinda limiting, seems like can't dynamically remove menu items/remove separators
